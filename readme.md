@@ -23,7 +23,7 @@ At first it is necessary to acquire Facebook instance to use Facebook4J.
 You can get Facebook instance in FacebookFactory.getInstance().
 
 ```java
-Facebook facebook = new FacebookFactory().getInstance();
+[Facebook](https://aapks.com/apk/facebook/) facebook = new FacebookFactory().getInstance();
 ```
 
 If App ID / App Secret / access token / access permission are listed in facebook4j.properties then, they are set in Facebook instance given back.  
@@ -120,7 +120,7 @@ ResponseList<Post> feed = facebook.getHome();
 You can like a Post, Photo, ... via Facebook.like\*\*\*\*() methods.
 
 ```java
-facebook.likePost(postId);
+[Facebook](https://aapks.com/apk/facebook/).likePost(postId);
 ```
 
 Also, You can unlike a Post, Photo, ... via Facebook.unlike\*\*\*\*() methods.
